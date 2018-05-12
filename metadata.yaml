@@ -1,0 +1,31 @@
+_repo: The-Copperhead_46124
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46124-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Frederic, Harold
+    birthdate: 1856
+    deathdate: 1898
+    gutenberg_agent_id: '83'
+    url: http://www.gutenberg.org/2009/agents/83
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Frederic
+description: 'Tells the story of Civil War era New York farmer Abner Beech, known
+  by the locals as a copperhead: a Northerner who, believing the war can''t be won,
+  wishes for peaceful separation from the South. This volume includes the original
+  magazine serial published in 1893 as well as the 2013 screenplay adaptation.'
+gutenberg_issued: '2014-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'New York (State) -- History -- Civil War, 1861-1865 -- Fiction'
+title: The Copperhead
+url: http://www.gutenberg.org/ebooks/46124
